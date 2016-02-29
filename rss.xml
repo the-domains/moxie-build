@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Moxie.Build]]></title>
-        <description><![CDATA[Moxie.Build]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Moxie.Build - Web Development Platform that Keeps It Simple]]></title>
+        <description><![CDATA[Moxie.Build - Web Development Platform that Keeps It Simple]]></description>
+        <link>https://thegrid.ai/moxie-build/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 22:06:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 22:11:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moxie-build/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/345d6347-cbe0-449f-bafe-5a78783062c4.jpg">]]></description>
-            <link>undefinedfd5815d9-9135-41e9-88c2-6a3018809897/index.html</link>
+            <link>https://thegrid.ai/moxie-build/fd5815d9-9135-41e9-88c2-6a3018809897/index.html</link>
             <guid isPermaLink="false">fd5815d9-9135-41e9-88c2-6a3018809897</guid>
-            <pubDate>Mon, 29 Feb 2016 22:05:54 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 22:11:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
